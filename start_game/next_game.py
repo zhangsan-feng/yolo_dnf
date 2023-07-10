@@ -1,6 +1,10 @@
 from start_game.keyboard_operation import Operation
 import time
 
+
+
+
+
 def NextGame():
     # esc
     Operation('esc')
