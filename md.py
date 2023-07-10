@@ -23,26 +23,15 @@ if __name__ == '__main__':
     https://github.com/taojy123/KeymouseGo  按键精灵
     
     
-    角色     
-    金币       
-    装备
-    门        
-    怪物     
-    boss
-    boss翻牌 
-    下一个角色 
-    下一个人物  
+    角色       Person
+    门         Men
+    怪物       XiaoGuai
+    boss      Boss
+    boss翻牌   BossJiangLi
+    下一个角色  NextPerson
+    下一局游戏  NextGame
+    金币|装备|材料 -- WuPin
     
-    
-    
-    a -- 第一张地图 
-    b -- 第二张地图
-    c -- 第三张地图
-    d -- 第四张地图
-    e -- 第五张地图
-    f -- 第六张地图
-    g -- boss 地图
-    35
     
   
     人物 * 80    4个人物
